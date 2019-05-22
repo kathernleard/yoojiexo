@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iucaitaif.leonardthiele.com/sitemap.xml
